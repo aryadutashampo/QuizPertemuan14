@@ -49,7 +49,7 @@ namespace QuizPertemuan14
             }
             else
             {
-                MessageBox.Show("Email dan sandi tidak ada!", "Wrong Login", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Email dan Kata Sandi Tidak Ada!", "Wrong Login", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }
